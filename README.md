@@ -20,7 +20,7 @@ CTO and Co-founder at @ekaleerwe
 <h1 align="center">Hi 👋, Trevor</h1>
 <h3 align="center">A passionate software engineer and  developer from Uganda </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=treva-123mutebi&label=Profile%20views&color=0e75b6&style=flat" alt="treva-123mutebi" /> </p>
+<p align="left"> <img width="1000" height="1000" src="https://komarev.com/ghpvc/?username=treva-123mutebi&label=Profile%20views&color=0e75b6&style=flat" alt="treva-123mutebi" /> </p>
 
 - 🔭 I’m currently interning at **Ekaleerwe** as the CTO.
 
