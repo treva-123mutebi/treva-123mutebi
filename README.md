@@ -1,6 +1,6 @@
 ## About
 
-![banner](https://github.com/treva-123mutebi/trevor_mutebi/blob/main/assets/md_banner.png)
+
 
 Human, Entrepreneur and Software Developer
 Based in Kampala - Uganda.
@@ -20,7 +20,7 @@ CTO and Co-founder at @ekaleerwe
 <h1 align="center">Hi 👋, Trevor</h1>
 <h3 align="center">A passionate software engineer and  developer from Uganda </h3>
 
-<p align="left"> <img width="1000" height="1000" src="https://komarev.com/ghpvc/?username=treva-123mutebi&label=Profile%20views&color=0e75b6&style=flat" alt="treva-123mutebi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=treva-123mutebi&label=Profile%20views&color=0e75b6&style=flat" alt="treva-123mutebi" /> </p>
 
 - 🔭 I’m currently interning at **Ekaleerwe** as the CTO.
 
@@ -43,3 +43,5 @@ CTO and Co-founder at @ekaleerwe
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=treva-123mutebi&show_icons=true&locale=en" alt="treva-123mutebi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=treva-123mutebi&" alt="treva-123mutebi" /></p>
+
+![banner](https://github.com/treva-123mutebi/trevor_mutebi/blob/main/assets/md_banner.png)
