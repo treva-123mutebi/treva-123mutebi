@@ -42,4 +42,3 @@ Co-founder at @ekaleerwe
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=treva-123mutebi&" alt="treva-123mutebi" /></p>
 
-![banner](https://github.com/treva-123mutebi/trevor_mutebi/blob/main/assets/md_banner.png)
