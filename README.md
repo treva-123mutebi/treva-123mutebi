@@ -22,7 +22,7 @@ CTO and Co-founder at @ekaleerwe
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=treva-123mutebi&label=Profile%20views&color=0e75b6&style=flat" alt="treva-123mutebi" /> </p>
 
-- 🔭 I’m currently interning at **Ekaleerwe** as the CTO.
+- 🔭 I’m currently coding the **Ekaleerwe** mobile app.
 
 - 🌱 I’m currently learning **Networking and Cybersecurity**
 
