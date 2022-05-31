@@ -2,9 +2,9 @@
 
 
 
-Human, Entrepreneur and Software Developer
+Software Developer
 Based in Kampala - Uganda.
-CTO and Co-founder at @ekaleerwe
+Co-founder at @ekaleerwe
 
 
 ## Get in touch
