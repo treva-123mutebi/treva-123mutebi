@@ -10,12 +10,12 @@ Co-founder at @ekaleerwe
 ## Get in touch
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mutebi-david-09bb77197/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mutebi_David-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/david-mutebi-09bb77197/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mutebi_David-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:testimonytechnologies@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Email-Mutebi_David-blue?style=flat-square"></a>
 </p>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=treva-123mutebi&theme=github)
+
 
 <h1 align="center">Hi 👋, Trevor</h1>
 <h3 align="center">A passionate software engineer and  developer from Uganda </h3>
